@@ -3,7 +3,7 @@
 A free, auto-updating Gujarat Government Jobs website.
 
 ## 🌐 Live Website
-👉 [Click here to open](https://YOUR-USERNAME.github.io/gujarat-jobs/)
+👉 [Click here to open](https://jasvantmca-eng.github.io/gujarat-jobs/)
 
 ## 📋 Features
 - Auto-refreshes every 5 minutes
